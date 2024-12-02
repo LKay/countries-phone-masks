@@ -800,8 +800,9 @@
     "iso": "JP",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/jp.svg",
     "mask": [
-      "(###)###-###",
-      "##-####-####"
+      "#-####-####",
+      "##-####-####",
+      "###-####-####"
     ]
   },
   {
@@ -1313,7 +1314,10 @@
     "code": "+48",
     "iso": "PL",
     "flag": "https://cdn.kcak11.com/CountryFlags/countries/pl.svg",
-    "mask": "(###)###-###"
+    "mask": [
+      "###-###-###",
+      "##-###-##-##"
+    ]
   },
   {
     "name": "Portugal",
